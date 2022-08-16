@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.7df02309.css",
-    "main.js": "/portfolio-site/static/js/main.0919b73a.js",
+    "main.js": "/portfolio-site/static/js/main.88b178f1.js",
     "static/media/travelAdvisor.png": "/portfolio-site/static/media/travelAdvisor.09321cff5f9dac254c21.png",
     "static/media/cv.pdf": "/portfolio-site/static/media/cv.6a4637fcca2bd3180850.pdf",
+    "static/media/iot-dashboard.png": "/portfolio-site/static/media/iot-dashboard.5b90fa64d4bffff20e14.png",
     "static/media/react.png": "/portfolio-site/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/portfolio-site/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/portfolio-site/static/media/node.952a9ea986dcfa5229ad.png",
@@ -15,10 +16,10 @@
     "static/media/javascript.png": "/portfolio-site/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-site/index.html",
     "main.7df02309.css.map": "/portfolio-site/static/css/main.7df02309.css.map",
-    "main.0919b73a.js.map": "/portfolio-site/static/js/main.0919b73a.js.map"
+    "main.88b178f1.js.map": "/portfolio-site/static/js/main.88b178f1.js.map"
   },
   "entrypoints": [
     "static/css/main.7df02309.css",
-    "static/js/main.0919b73a.js"
+    "static/js/main.88b178f1.js"
   ]
 }
