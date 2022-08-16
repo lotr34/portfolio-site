@@ -1,5 +1,6 @@
 import React from 'react'
-import travelAdvisor from '../assets/travelAdvisor.png'
+import travelAdvisor from '../assets/travelAdvisor.png' 
+import iotDashboard from '../assets/iot-dashboard.png'
 
 const Work = () => {
   return (
@@ -15,7 +16,7 @@ const Work = () => {
                 <div style={{backgroundImage: `url(${travelAdvisor})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            React Js App
+                            Travel Advisor
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://lotr34.github.io/travel-advisor/' target='_blank'>
@@ -27,11 +28,23 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
+                <div style={{backgroundImage: `url(${iotDashboard})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            Iot Dashboard
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href='https://lotr34.github.io/dashboard-TH' target='_blank'>
+                                <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                            <a href='https://github.com/lotr34/dashboard-TH' target='_blank'>
+                                <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-
-        
-
     </div>
   )
 }
